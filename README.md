@@ -14,6 +14,7 @@ Solutions to LeetCode problems and Data Structures implemented in Java.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShortBuilds/DSA-Java-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0392-is-subsequence](https://github.com/ShortBuilds/DSA-Java-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ShortBuilds/DSA-Java-Solutions/tree/master/0443-string-compression) |
 ## Array
@@ -33,9 +34,14 @@ Solutions to LeetCode problems and Data Structures implemented in Java.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShortBuilds/DSA-Java-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ShortBuilds/DSA-Java-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ShortBuilds/DSA-Java-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShortBuilds/DSA-Java-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
