@@ -6,6 +6,7 @@ Solutions to LeetCode problems and Data Structures implemented in Java.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ShortBuilds/DSA-Java-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ShortBuilds/DSA-Java-Solutions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/ShortBuilds/DSA-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/ShortBuilds/DSA-Java-Solutions/tree/master/0392-is-subsequence) |
@@ -15,6 +16,7 @@ Solutions to LeetCode problems and Data Structures implemented in Java.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShortBuilds/DSA-Java-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ShortBuilds/DSA-Java-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/ShortBuilds/DSA-Java-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ShortBuilds/DSA-Java-Solutions/tree/master/0443-string-compression) |
 ## Array
@@ -26,6 +28,7 @@ Solutions to LeetCode problems and Data Structures implemented in Java.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ShortBuilds/DSA-Java-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/ShortBuilds/DSA-Java-Solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
