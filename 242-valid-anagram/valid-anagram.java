@@ -1,7 +1,7 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
 
-        /*if (s.length() != t.length()) {
+        if (s.length() != t.length()) {
             return false;
         }
         
@@ -19,13 +19,13 @@ class Solution {
             }
         }
         
-        return true;*/
+        return true;
 
-        char sarr[] = s.toCharArray();
+        /*char sarr[] = s.toCharArray();
         char tarr[] = t.toCharArray();
         Arrays.sort(sarr);
         Arrays.sort(tarr);
 
-        return Arrays.equals(sarr, tarr);
+        return Arrays.equals(sarr, tarr);*/
     }
 }
