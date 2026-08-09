@@ -3,7 +3,7 @@ class Solution {
         int n = temperatures.length;
         int result [] = new int[n];
 
-        Deque <Integer> stack = new ArrayDeque<>();
+        Deque <Integer> stack = new ArrayDeque<>(); // for indices
 
         for (int i =0 ;i< n; i++){
             int currentTemp = temperatures[i];
